@@ -5,7 +5,7 @@ import random
 import time
 
 # ================= НАСТРОЙКИ =================
-TOKEN = 'vk1.a.X89WgPJdARa-HNpcwbakSRbUWpxFHA0QMsxKF6jnOqo6PnJq-uD8fNF8JOLqVzsB89XXJxA3H071TtY4tah9r_Isj2tEeSrBVYm9gIgAgooov4wy84BIyUF80tOYvGipCX-jzIMazdk_4SI6fr33sFtFIevq85RgBcEopAmjVLSzeSAzUAjUNnATF65z-dN2nb3sbNcHwctfCQv6-TsUqQ'
+TOKEN = secret
 GROUP_ID = 214117275
 # =============================================
 
